@@ -1,0 +1,2 @@
+Customer_Name,Customer_ID,Open_Date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active,Age,Days_Since_Last_Consulted
+John,123458,2010-10-12,2012-10-13,MVD,Paul,TN,IND,1987-03-06,A,36,4479
