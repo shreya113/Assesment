@@ -1,1 +1,32 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
 
+# Virtual environment
+venv/
+env/
+
+# IDE configurations (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (e.g., csv, excel files generated)
+data/*.csv
+data/*.xlsx
+
+# Log files
+*.log
+
+# Test and coverage files
+.coverage
+nosetests.xml
+pytest.xml
+tox.ini
+*.cover
+
+# GitHub actions output
+*.yml
